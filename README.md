@@ -12,15 +12,6 @@
 
     <pre>https://www.postgresql.org/download/windows/</pre>
     ------------------
-    dbName
-    <pre>roman</pre>
-    ------------------
-    dbUser
-    <pre>roman</pre>
-    ------------------
-    dbUserPass
-    <pre>123</pre>
-    ------------------
     <pre>
     dbName: 'roman',
     dbUser: 'roman',
