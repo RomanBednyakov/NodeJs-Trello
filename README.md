@@ -1,5 +1,5 @@
 # NodeJS-Trello
-( <pre> nodejs version 8.11 </pre>)
+<pre> nodejs version 8.11 </pre>
 1) Node.js install
     <pre> sudo apt-get update <br> sudo apt-get install nodejs</pre>
     <pre>https://www.digitalocean.com/community/tutorials/node-js-ubuntu-16-04-ru</pre>
@@ -21,11 +21,13 @@
     dbUserPass
     <pre>123</pre>
     ------------------
+    <pre>
     dbName: 'roman',
     dbUser: 'roman',
     dbUserPass: '123',
     dbPort: 5432,
-    dbHost: 'localhost',
+    dbHost: 'localhost'
+    </pre>
     ------------------
     Added table on bd
     <pre>CREATE TABLE users (user_id serial PRIMARY KEY, name text, password text);</pre>
